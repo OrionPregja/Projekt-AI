@@ -73,6 +73,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
+  scroll-margin-top: 20vh;
 }
 
 .slogan,
